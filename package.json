@@ -1,5 +1,5 @@
 {
-  "name": "my-hex-engine-game",
+  "name": "tic-tac-toe",
   "version": "0.0.1",
   "private": true,
   "dependencies": {
